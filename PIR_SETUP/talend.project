@@ -4,4 +4,7 @@
     <migrationTask xmi:id="_yLYbgPa2EeqAlr_uTPsPIA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_yCxSEva2EeqAlr_uTPsPIA" login="andrew@pir.org" firstName="Andrew" lastName="Buffone" type="DQ"/>
+  <TalendProperties:User xmi:id="_JMPIAPa3EeqbEu3m9UJHGg" login="dan@pir.org" firstName="Dan" lastName="Denunzio" type="DQ"/>
+  <TalendProperties:User xmi:id="_JMPIAfa3EeqbEu3m9UJHGg" login="xzhang@pir.org" firstName="Xingling" lastName="Zhang" type="DQ"/>
+  <TalendProperties:User xmi:id="_JMPIAva3EeqbEu3m9UJHGg" login="czimmerman@pir.org" firstName="Charlie" lastName="Zimmerman" type="DQ"/>
 </xmi:XMI>
