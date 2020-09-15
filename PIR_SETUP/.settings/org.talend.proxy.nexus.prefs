@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+nexus.proxy.enable=true
+nexus.proxy.password=PIR_x0y1z2
+nexus.proxy.type=ARTIFACTORY
+nexus.proxy.url=https\://abcpir.jfrog.io/artifactory/talend-custom-libs/
+nexus.proxy.username=pir_abc_jfrog
