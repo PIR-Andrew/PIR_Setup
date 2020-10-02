@@ -1,5 +1,4 @@
 eclipse.preferences.version=1
-nexus.proxy.enable=true
 nexus.proxy.password=PIR_x0y1z2
 nexus.proxy.repository.id=talend-custom-libs
 nexus.proxy.type=ARTIFACTORY
