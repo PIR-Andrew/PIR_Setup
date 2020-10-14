@@ -20,6 +20,7 @@
     <module>jobs/process/ftptest_0.1</module>
     <module>jobs/process/redmetaltest_0.1</module>
     <module>jobs/process/redmetal_genericjdbc_0.1</module>
+    <module>jobs/process/redmetal_postgresinputtest_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PIR_SETUP</talend.project.name>
