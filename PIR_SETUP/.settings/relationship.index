@@ -4913,10 +4913,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_hZ54wA_YEeuSe5UcEdKE5Q",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
